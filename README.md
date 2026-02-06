@@ -53,5 +53,9 @@ To get a local copy up and running, follow these simple steps.
 ---
 
 ### Screenshot / Demo
-
+<img width="1769" height="934" alt="gambar" src="https://github.com/user-attachments/assets/2ea23780-1e1e-4a9b-b597-6a5188e9d847" />
 <img width="1824" height="935" alt="gambar" src="https://github.com/user-attachments/assets/47d22935-4366-4fe9-b5c0-acd6ac0fed7f" />
+<img width="1762" height="929" alt="gambar" src="https://github.com/user-attachments/assets/3b84b9c0-ee8f-4abc-817d-0b644dc6ed30" />
+<img width="830" height="502" alt="gambar" src="https://github.com/user-attachments/assets/18234b1e-c52f-4068-ae28-73223c779f04" />
+
+
